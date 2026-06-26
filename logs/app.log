@@ -1,402 +1,3 @@
-2026-06-26 18:37:38,064 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 18:37:39,720 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 18:37:41,048 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 18:37:42,734 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 18:37:44,470 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 18:37:44,683 - INFO - [DEBUG] Dropped job in 'navi mumbai, maharashtra, india' - not in target list
-2026-06-26 18:37:44,684 - INFO - [DEBUG] Dropped job in 'orlando, fl' - not in target list
-2026-06-26 18:37:44,684 - INFO - [DEBUG] Dropped job in 'montreal, quebec, canada' - not in target list
-2026-06-26 18:37:44,684 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
-2026-06-26 18:37:44,684 - INFO - [DEBUG] Dropped job in 'london, ontario, canada' - not in target list
-2026-06-26 18:37:44,684 - INFO -  [OK] LinkedIn: 43 fetched → 38 new & recent (filtered: 5)
-2026-06-26 18:37:56,838 - INFO -  [OK] Naukri: 80 fetched → 4 new & recent (filtered: 76)
-2026-06-26 18:37:57,338 - INFO -  [OK] Remotive: 17 fetched → 0 new & recent (filtered: 17)
-2026-06-26 18:37:58,461 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 18:37:59,447 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 18:38:08,349 - INFO -   [Sent] Sent 4 new jobs for 'react developer'
-2026-06-26 18:38:09,863 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:38:10,974 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:38:10,977 - INFO - 
-[Search] [frontend developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:38:12,359 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 18:38:14,155 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 18:38:15,443 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 18:38:16,941 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 18:38:18,102 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 18:38:18,305 - INFO -  [OK] LinkedIn: 23 fetched → 23 new & recent (filtered: 0)
-2026-06-26 18:38:30,242 - INFO -  [OK] Naukri: 88 fetched → 2 new & recent (filtered: 86)
-2026-06-26 18:38:30,743 - INFO -  [OK] Remotive: 10 fetched → 0 new & recent (filtered: 10)
-2026-06-26 18:38:31,956 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 18:38:32,942 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 18:38:41,879 - INFO -   [Sent] Sent 4 new jobs for 'frontend developer'
-2026-06-26 18:38:43,199 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:38:44,061 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:38:44,064 - INFO - 
-[Search] [angular developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:38:45,513 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
-2026-06-26 18:38:46,944 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
-2026-06-26 18:38:48,327 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
-2026-06-26 18:38:49,846 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
-2026-06-26 18:38:50,448 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
-2026-06-26 18:38:50,651 - INFO -  [OK] LinkedIn: 26 fetched → 26 new & recent (filtered: 0)
-2026-06-26 18:39:03,222 - INFO -  [OK] Naukri: 76 fetched → 4 new & recent (filtered: 72)
-2026-06-26 18:39:03,723 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 18:39:05,056 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 18:39:06,056 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 18:39:08,701 - INFO -   [Sent] Sent 1 new jobs for 'angular developer'
-2026-06-26 18:39:10,143 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:39:11,172 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:39:11,174 - INFO - 
-[Search] [vue.js developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:39:12,528 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
-2026-06-26 18:39:13,972 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
-2026-06-26 18:39:15,396 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
-2026-06-26 18:39:16,883 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
-2026-06-26 18:39:18,378 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
-2026-06-26 18:39:18,588 - INFO - [DEBUG] Dropped job in 'bernville, pa' - not in target list
-2026-06-26 18:39:18,588 - INFO - [DEBUG] Dropped job in 'san francisco, ca' - not in target list
-2026-06-26 18:39:18,588 - INFO - [DEBUG] Dropped job in 'mumbai, maharashtra, india' - not in target list
-2026-06-26 18:39:18,588 - INFO - [DEBUG] Dropped job in 'sofia, sofia city, bulgaria' - not in target list
-2026-06-26 18:39:18,588 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 18:39:18,588 - INFO - [DEBUG] Dropped job in 'karāchi, sindh, pakistan' - not in target list
-2026-06-26 18:39:18,588 - INFO -  [OK] LinkedIn: 19 fetched → 13 new & recent (filtered: 6)
-2026-06-26 18:39:29,393 - INFO -  [OK] Naukri: 82 fetched → 13 new & recent (filtered: 69)
-2026-06-26 18:39:29,894 - INFO -  [OK] Remotive: 3 fetched → 0 new & recent (filtered: 3)
-2026-06-26 18:39:30,960 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 18:39:32,098 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 18:39:32,599 - INFO -   [Sent] Sent 0 new jobs for 'vue.js developer'
-2026-06-26 18:39:32,599 - INFO - 
-[Search] [typescript developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:39:33,638 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
-2026-06-26 18:39:35,078 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
-2026-06-26 18:39:36,301 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
-2026-06-26 18:39:37,828 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
-2026-06-26 18:39:39,340 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
-2026-06-26 18:39:39,551 - INFO - [DEBUG] Dropped job in 'kazakhstan' - not in target list
-2026-06-26 18:39:39,551 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 18:39:39,551 - INFO - [DEBUG] Dropped job in 'haute-savoie, auvergne-rhône-alpes, france' - not in target list
-2026-06-26 18:39:39,551 - INFO - [DEBUG] Dropped job in 'roanoke, tx' - not in target list
-2026-06-26 18:39:39,551 - INFO - [DEBUG] Dropped job in 'cracow, małopolskie, poland' - not in target list
-2026-06-26 18:39:39,551 - INFO - [DEBUG] Dropped job in 'palo alto, ca' - not in target list
-2026-06-26 18:39:39,551 - INFO - [DEBUG] Dropped job in 'islington, england, united kingdom' - not in target list
-2026-06-26 18:39:39,552 - INFO - [DEBUG] Dropped job in 'san francisco, ca' - not in target list
-2026-06-26 18:39:39,552 - INFO - [DEBUG] Dropped job in 'germany' - not in target list
-2026-06-26 18:39:39,552 - INFO -  [OK] LinkedIn: 29 fetched → 20 new & recent (filtered: 9)
-2026-06-26 18:39:50,568 - INFO -  [OK] Naukri: 86 fetched → 28 new & recent (filtered: 58)
-2026-06-26 18:39:51,069 - INFO -  [OK] Remotive: 10 fetched → 0 new & recent (filtered: 10)
-2026-06-26 18:39:52,352 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 18:39:53,389 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 18:40:02,260 - INFO -   [Sent] Sent 4 new jobs for 'typescript developer'
-2026-06-26 18:40:03,553 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:40:04,448 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:40:05,451 - INFO - 
---------------------------------------------------
-2026-06-26 18:40:05,451 - INFO - [Category] Category: DEVOPS | Elapsed: 6.7 min
-2026-06-26 18:40:05,451 - INFO - --------------------------------------------------
-2026-06-26 18:40:05,452 - INFO - 
-[Search] [devops engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:40:06,802 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
-2026-06-26 18:40:08,457 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
-2026-06-26 18:40:09,960 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
-2026-06-26 18:40:11,335 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
-2026-06-26 18:40:11,964 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
-2026-06-26 18:40:12,166 - INFO - [DEBUG] Dropped job in 'pimpri chinchwad, maharashtra, india' - not in target list
-2026-06-26 18:40:12,166 - INFO -  [OK] LinkedIn: 21 fetched → 20 new & recent (filtered: 1)
-2026-06-26 18:40:24,063 - INFO -  [OK] Naukri: 93 fetched → 11 new & recent (filtered: 82)
-2026-06-26 18:40:24,564 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
-2026-06-26 18:40:25,658 - INFO -  [OK] WeWorkRemotely: 12 fetched → 0 new & recent (filtered: 12)
-2026-06-26 18:40:26,639 - INFO -  [OK] RemoteOK: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 18:40:35,362 - INFO -   [Sent] Sent 4 new jobs for 'devops engineer'
-2026-06-26 18:40:36,830 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:40:37,730 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:40:37,731 - INFO - 
-[Search] [cloud engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:40:39,078 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
-2026-06-26 18:40:40,654 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
-2026-06-26 18:40:42,155 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
-2026-06-26 18:40:43,592 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
-2026-06-26 18:40:45,255 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
-2026-06-26 18:40:45,466 - INFO - [DEBUG] Dropped job in 'khairatabad, telangana, india' - not in target list
-2026-06-26 18:40:45,466 - INFO - [DEBUG] Dropped job in 'singapore, singapore' - not in target list
-2026-06-26 18:40:45,466 - INFO - [DEBUG] Dropped job in 'canada' - not in target list
-2026-06-26 18:40:45,466 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 18:40:45,467 - INFO - [DEBUG] Dropped job in 'rochester, ny' - not in target list
-2026-06-26 18:40:45,467 - INFO - [DEBUG] Dropped job in 'canada' - not in target list
-2026-06-26 18:40:45,467 - INFO - [DEBUG] Dropped job in 'croydon, england, united kingdom' - not in target list
-2026-06-26 18:40:45,467 - INFO - [DEBUG] Dropped job in 'canada' - not in target list
-2026-06-26 18:40:45,467 - INFO - [DEBUG] Dropped job in 'virginia, united states' - not in target list
-2026-06-26 18:40:45,467 - INFO - [DEBUG] Dropped job in 'georgia, united states' - not in target list
-2026-06-26 18:40:45,467 - INFO - [DEBUG] Dropped job in 'waltham, ma' - not in target list
-2026-06-26 18:40:45,467 - INFO -  [OK] LinkedIn: 50 fetched → 39 new & recent (filtered: 11)
-2026-06-26 18:40:57,270 - INFO -  [OK] Naukri: 79 fetched → 4 new & recent (filtered: 75)
-2026-06-26 18:40:57,771 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
-2026-06-26 18:40:58,959 - INFO -  [OK] WeWorkRemotely: 11 fetched → 0 new & recent (filtered: 11)
-2026-06-26 18:40:59,965 - INFO -  [OK] RemoteOK: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 18:41:19,358 - INFO -   [Sent] Sent 9 new jobs for 'cloud engineer'
-2026-06-26 18:41:20,725 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:41:21,816 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:41:21,818 - INFO - 
-[Search] [site reliability engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:41:23,050 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
-2026-06-26 18:41:24,504 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
-2026-06-26 18:41:25,922 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
-2026-06-26 18:41:27,418 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
-2026-06-26 18:41:29,273 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
-2026-06-26 18:41:29,549 - INFO - [DEBUG] Dropped job in 'pimpri chinchwad, maharashtra, india' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'plano, tx' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'singapore, singapore' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'philadelphia, pa' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'salt lake city, ut' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'cheltenham, england, united kingdom' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'greater st. louis' - not in target list
-2026-06-26 18:41:29,550 - INFO - [DEBUG] Dropped job in 'draper, ut' - not in target list
-2026-06-26 18:41:29,550 - INFO -  [OK] LinkedIn: 48 fetched → 39 new & recent (filtered: 9)
-2026-06-26 18:41:42,195 - INFO -  [OK] Naukri: 92 fetched → 3 new & recent (filtered: 89)
-2026-06-26 18:41:42,696 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
-2026-06-26 18:41:43,759 - INFO -  [OK] WeWorkRemotely: 12 fetched → 0 new & recent (filtered: 12)
-2026-06-26 18:41:44,775 - INFO -  [OK] RemoteOK: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 18:41:53,758 - INFO -   [Sent] Sent 4 new jobs for 'site reliability engineer'
-2026-06-26 18:41:55,240 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:41:56,251 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:41:56,253 - INFO - 
-[Search] [platform engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:41:57,714 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
-2026-06-26 18:41:58,842 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
-2026-06-26 18:41:59,448 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
-2026-06-26 18:42:00,114 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
-2026-06-26 18:42:00,650 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
-2026-06-26 18:42:00,851 - INFO -  [OK] LinkedIn: 7 fetched → 7 new & recent (filtered: 0)
-2026-06-26 18:42:13,447 - INFO -  [OK] Naukri: 79 fetched → 3 new & recent (filtered: 76)
-2026-06-26 18:42:13,948 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
-2026-06-26 18:42:15,151 - INFO -  [OK] WeWorkRemotely: 11 fetched → 0 new & recent (filtered: 11)
-2026-06-26 18:42:16,214 - INFO -  [OK] RemoteOK: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 18:42:16,715 - INFO -   [Sent] Sent 0 new jobs for 'platform engineer'
-2026-06-26 18:42:16,715 - INFO - 
-[Search] [kubernetes engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 18:42:18,009 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
-2026-06-26 18:42:19,437 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
-2026-06-26 18:42:21,015 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
-2026-06-26 18:42:22,544 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
-2026-06-26 18:42:24,015 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
-2026-06-26 18:42:24,226 - INFO - [DEBUG] Dropped job in 'singapore, singapore' - not in target list
-2026-06-26 18:42:24,226 - INFO - [DEBUG] Dropped job in 'virginia, united states' - not in target list
-2026-06-26 18:42:24,226 - INFO - [DEBUG] Dropped job in 'greater houston' - not in target list
-2026-06-26 18:42:24,226 - INFO - [DEBUG] Dropped job in 'singapore, singapore' - not in target list
-2026-06-26 18:42:24,226 - INFO - [DEBUG] Dropped job in 'boston, ma' - not in target list
-2026-06-26 18:42:24,226 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 18:42:24,226 - INFO - [DEBUG] Dropped job in 'draper, ut' - not in target list
-2026-06-26 18:42:24,227 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
-2026-06-26 18:42:24,227 - INFO - [DEBUG] Dropped job in 'new york city metropolitan area' - not in target list
-2026-06-26 18:42:24,227 - INFO - [DEBUG] Dropped job in 'madrid, community of madrid, spain' - not in target list
-2026-06-26 18:42:24,227 - INFO -  [OK] LinkedIn: 48 fetched → 38 new & recent (filtered: 10)
-2026-06-26 18:42:35,768 - INFO -  [OK] Naukri: 68 fetched → 5 new & recent (filtered: 63)
-2026-06-26 18:42:36,269 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
-2026-06-26 18:42:37,749 - INFO -  [OK] WeWorkRemotely: 11 fetched → 0 new & recent (filtered: 11)
-2026-06-26 18:42:38,863 - INFO -  [OK] RemoteOK: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 18:42:52,092 - INFO -   [Sent] Sent 6 new jobs for 'kubernetes engineer'
-2026-06-26 18:42:53,522 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:42:54,634 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:42:57,058 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 18:42:57,993 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 18:42:57,998 - INFO - 
-==================================================
-2026-06-26 18:42:57,999 - INFO - [OK] Run complete. Total new jobs sent: 60
-2026-06-26 18:42:58,000 - INFO - ==================================================
-============================================================
-[RUN END] exit code: 0
-============================================================
-2026-06-26 19:03:18,986 - INFO - [startup] Pulled 3000 log lines from GitHub.
-============================================================
-[RUN START] 2026-06-26 19:03:22 UTC
-============================================================
-2026-06-26 19:03:23,503 - INFO - [OK] Config OK - 3 active categories, 16 keywords total
-2026-06-26 19:03:23,919 - INFO - 
-============================================================
-2026-06-26 19:03:23,920 - INFO - [STARTUP] ENV VAR CHECK
-2026-06-26 19:03:23,920 - INFO - ============================================================
-2026-06-26 19:03:23,920 - INFO -   [OK]     SST_BOT_TOKEN = ***wE1Y
-2026-06-26 19:03:23,920 - INFO -   [OK]     SST_BACKEND_JOBS_CHAT_ID = ***1312
-2026-06-26 19:03:23,920 - INFO -   [OK]     SST_FRONTEND_JOBS_CHAT_ID = ***8207
-2026-06-26 19:03:23,920 - INFO -   [OK]     SST_DEVOPS_JOBS_CHAT_ID = ***1587
-2026-06-26 19:03:23,920 - INFO -   [OK]     GITHUB_TOKEN = ***IB17
-2026-06-26 19:03:23,920 - INFO -   [OK]     GITHUB_REPO = ***-bot
-2026-06-26 19:03:23,920 - INFO -   [OK]     SCRAPER_API_KEY = ***nK5Z
-2026-06-26 19:03:23,920 - INFO - ============================================================
-2026-06-26 19:03:24,411 - INFO - [OK] Successfully pulled sent_jobs.json from GitHub.
-2026-06-26 19:03:24,847 - INFO - [OK] Successfully pulled last_run.json from GitHub.
-2026-06-26 19:03:24,851 - INFO - 
-[Time] Last run: 2026-06-27 00:12:57.060547+05:30
-2026-06-26 19:03:24,851 - INFO - [State] Already sent: 5000 job IDs
-2026-06-26 19:03:24,851 - INFO - 
---------------------------------------------------
-2026-06-26 19:03:24,851 - INFO - [Category] Category: BACKEND | Elapsed: 0.0 min
-2026-06-26 19:03:24,851 - INFO - --------------------------------------------------
-2026-06-26 19:03:24,851 - INFO - 
-[Search] [python developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:03:26,211 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
-2026-06-26 19:03:29,178 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
-2026-06-26 19:03:30,749 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
-2026-06-26 19:03:32,278 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
-2026-06-26 19:03:33,392 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'shirur, maharashtra, india' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'ruse, ruse, bulgaria' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'vancouver, british columbia, canada' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'norwich, england, united kingdom' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'bhubaneswar, odisha, india' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'pittsford, ny' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'austin, tx' - not in target list
-2026-06-26 19:03:33,603 - INFO - [DEBUG] Dropped job in 'veliko turnovo, bulgaria' - not in target list
-2026-06-26 19:03:33,603 - INFO -  [OK] LinkedIn: 40 fetched → 31 new & recent (filtered: 9)
-2026-06-26 19:03:46,308 - INFO -  [OK] Naukri: 89 fetched → 14 new & recent (filtered: 75)
-2026-06-26 19:03:46,931 - INFO -     [Remotive] Cached 34 total jobs
-2026-06-26 19:03:46,932 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 19:03:48,008 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 19:03:49,069 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 19:03:57,910 - INFO -   [Sent] Sent 4 new jobs for 'python developer'
-2026-06-26 19:03:59,217 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 19:04:00,136 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 19:04:00,138 - INFO - 
-[Search] [java developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:04:01,474 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
-2026-06-26 19:04:03,061 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
-2026-06-26 19:04:04,496 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
-2026-06-26 19:04:06,058 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
-2026-06-26 19:04:07,197 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
-2026-06-26 19:04:07,400 - INFO -  [OK] LinkedIn: 32 fetched → 32 new & recent (filtered: 0)
-2026-06-26 19:04:19,541 - INFO -  [OK] Naukri: 77 fetched → 12 new & recent (filtered: 65)
-2026-06-26 19:04:20,042 - INFO -  [OK] Remotive: 6 fetched → 0 new & recent (filtered: 6)
-2026-06-26 19:04:21,195 - INFO -  [OK] WeWorkRemotely: 10 fetched → 0 new & recent (filtered: 10)
-2026-06-26 19:04:22,214 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 19:04:35,299 - INFO -   [Sent] Sent 6 new jobs for 'java developer'
-2026-06-26 19:04:36,941 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 19:04:38,301 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 19:04:38,304 - INFO - 
-[Search] [node.js developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:04:39,757 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
-2026-06-26 19:04:41,291 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
-2026-06-26 19:04:42,815 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
-2026-06-26 19:04:44,475 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
-2026-06-26 19:04:46,075 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
-2026-06-26 19:04:46,288 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
-2026-06-26 19:04:46,288 - INFO - [DEBUG] Dropped job in 'los angeles, ca' - not in target list
-2026-06-26 19:04:46,288 - INFO - [DEBUG] Dropped job in 'sydney, new south wales, australia' - not in target list
-2026-06-26 19:04:46,289 - INFO - [DEBUG] Dropped job in 'london, england, united kingdom' - not in target list
-2026-06-26 19:04:46,289 - INFO - [DEBUG] Dropped job in 'san francisco, ca' - not in target list
-2026-06-26 19:04:46,289 - INFO - [DEBUG] Dropped job in 'ware, england, united kingdom' - not in target list
-2026-06-26 19:04:46,289 - INFO - [DEBUG] Dropped job in 'waterloo, ontario, canada' - not in target list
-2026-06-26 19:04:46,289 - INFO - [DEBUG] Dropped job in 'gurgaon, haryana, india' - not in target list
-2026-06-26 19:04:46,289 - INFO -  [OK] LinkedIn: 34 fetched → 26 new & recent (filtered: 8)
-2026-06-26 19:04:57,668 - INFO -  [OK] Naukri: 79 fetched → 9 new & recent (filtered: 70)
-2026-06-26 19:04:58,169 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 19:04:59,295 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 19:05:00,287 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 19:05:04,912 - INFO -   [Sent] Sent 2 new jobs for 'node.js developer'
-2026-06-26 19:05:06,368 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 19:05:07,340 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 19:05:07,343 - INFO - 
-[Search] [backend developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:05:08,775 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
-2026-06-26 19:05:10,268 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
-2026-06-26 19:05:11,790 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
-2026-06-26 19:05:13,446 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
-2026-06-26 19:05:15,010 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
-2026-06-26 19:05:15,220 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
-2026-06-26 19:05:15,220 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
-2026-06-26 19:05:15,220 - INFO - [DEBUG] Dropped job in 'waterloo, ontario, canada' - not in target list
-2026-06-26 19:05:15,220 - INFO - [DEBUG] Dropped job in 'atlanta, ga' - not in target list
-2026-06-26 19:05:15,221 - INFO - [DEBUG] Dropped job in 'los angeles, ca' - not in target list
-2026-06-26 19:05:15,221 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 19:05:15,221 - INFO - [DEBUG] Dropped job in 'sydney, new south wales, australia' - not in target list
-2026-06-26 19:05:15,221 - INFO - [DEBUG] Dropped job in 'metro manila' - not in target list
-2026-06-26 19:05:15,221 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 19:05:15,221 - INFO -  [OK] LinkedIn: 49 fetched → 40 new & recent (filtered: 9)
-2026-06-26 19:05:28,653 - INFO -  [OK] Naukri: 90 fetched → 4 new & recent (filtered: 86)
-2026-06-26 19:05:29,154 - INFO -  [OK] Remotive: 14 fetched → 0 new & recent (filtered: 14)
-2026-06-26 19:05:30,306 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 19:05:31,312 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 19:05:36,001 - INFO -   [Sent] Sent 2 new jobs for 'backend developer'
-2026-06-26 19:05:37,516 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 19:05:38,574 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 19:05:38,575 - INFO - 
-[Search] [golang developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:05:39,692 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
-2026-06-26 19:05:41,337 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
-2026-06-26 19:05:42,894 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
-2026-06-26 19:05:44,561 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
-2026-06-26 19:05:46,095 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
-2026-06-26 19:05:46,306 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 19:05:46,306 - INFO - [DEBUG] Dropped job in 'mexico' - not in target list
-2026-06-26 19:05:46,306 - INFO - [DEBUG] Dropped job in 'almelo, overijssel, netherlands' - not in target list
-2026-06-26 19:05:46,307 - INFO - [DEBUG] Dropped job in 'verona, veneto, italy' - not in target list
-2026-06-26 19:05:46,307 - INFO - [DEBUG] Dropped job in 'montreal, quebec, canada' - not in target list
-2026-06-26 19:05:46,307 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
-2026-06-26 19:05:46,307 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
-2026-06-26 19:05:46,307 - INFO - [DEBUG] Dropped job in 'namer' - not in target list
-2026-06-26 19:05:46,307 - INFO - [DEBUG] Dropped job in 'carson, ca' - not in target list
-2026-06-26 19:05:46,307 - INFO -  [OK] LinkedIn: 30 fetched → 21 new & recent (filtered: 9)
-2026-06-26 19:05:59,825 - INFO -  [OK] Naukri: 86 fetched → 4 new & recent (filtered: 82)
-2026-06-26 19:06:00,326 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 19:06:01,500 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 19:06:02,487 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 19:06:07,109 - INFO -   [Sent] Sent 2 new jobs for 'golang developer'
-2026-06-26 19:06:08,514 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 19:06:09,562 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 19:06:09,564 - INFO - 
-[Search] [rust developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:06:10,637 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
-2026-06-26 19:06:11,938 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
-2026-06-26 19:06:13,465 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
-2026-06-26 19:06:15,111 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
-2026-06-26 19:06:16,549 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'verona, veneto, italy' - not in target list
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'namer' - not in target list
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'emea' - not in target list
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'indonesia' - not in target list
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'philippines' - not in target list
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'russia' - not in target list
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'mexico' - not in target list
-2026-06-26 19:06:16,761 - INFO - [DEBUG] Dropped job in 'canada' - not in target list
-2026-06-26 19:06:16,762 - INFO - [DEBUG] Dropped job in 'china' - not in target list
-2026-06-26 19:06:16,762 - INFO - [DEBUG] Dropped job in 'new york city metropolitan area' - not in target list
-2026-06-26 19:06:16,762 - INFO -  [OK] LinkedIn: 37 fetched → 27 new & recent (filtered: 10)
-2026-06-26 19:06:27,906 - INFO -  [OK] Naukri: 28 fetched → 0 new & recent (filtered: 28)
-2026-06-26 19:06:28,407 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
-2026-06-26 19:06:29,598 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 19:06:30,591 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 19:06:43,610 - INFO -   [Sent] Sent 6 new jobs for 'rust developer'
-2026-06-26 19:06:45,179 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
-2026-06-26 19:06:46,239 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
-2026-06-26 19:06:47,242 - INFO - 
---------------------------------------------------
-2026-06-26 19:06:47,242 - INFO - [Category] Category: FRONTEND | Elapsed: 3.4 min
-2026-06-26 19:06:47,242 - INFO - --------------------------------------------------
-2026-06-26 19:06:47,242 - INFO - 
-[Search] [react developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:06:48,461 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 19:06:49,824 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 19:06:51,057 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 19:06:52,463 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 19:06:53,898 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
-2026-06-26 19:06:54,108 - INFO - [DEBUG] Dropped job in 'navi mumbai, maharashtra, india' - not in target list
-2026-06-26 19:06:54,108 - INFO - [DEBUG] Dropped job in 'orlando, fl' - not in target list
-2026-06-26 19:06:54,108 - INFO - [DEBUG] Dropped job in 'montreal, quebec, canada' - not in target list
-2026-06-26 19:06:54,108 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
-2026-06-26 19:06:54,108 - INFO - [DEBUG] Dropped job in 'london, ontario, canada' - not in target list
-2026-06-26 19:06:54,108 - INFO -  [OK] LinkedIn: 36 fetched → 31 new & recent (filtered: 5)
-2026-06-26 19:07:06,392 - INFO -  [OK] Naukri: 80 fetched → 4 new & recent (filtered: 76)
-2026-06-26 19:07:06,893 - INFO -  [OK] Remotive: 17 fetched → 0 new & recent (filtered: 17)
-2026-06-26 19:07:08,094 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
-2026-06-26 19:07:09,096 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
-2026-06-26 19:07:09,597 - INFO -   [Sent] Sent 0 new jobs for 'react developer'
-2026-06-26 19:07:09,597 - INFO - 
-[Search] [frontend developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
-2026-06-26 19:07:10,806 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 19:07:12,327 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 19:07:14,216 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 19:07:16,001 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
-2026-06-26 19:07:17,118 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
 2026-06-26 19:07:17,330 - INFO - [DEBUG] Dropped job in 'montreal, quebec, canada' - not in target list
 2026-06-26 19:07:17,330 - INFO - [DEBUG] Dropped job in 'nagpur, maharashtra, india' - not in target list
 2026-06-26 19:07:17,330 - INFO - [DEBUG] Dropped job in 'london, ontario, canada' - not in target list
@@ -2995,6 +2596,405 @@
 ==================================================
 2026-06-26 22:09:54,278 - INFO - [OK] Run complete. Total new jobs sent: 8
 2026-06-26 22:09:54,278 - INFO - ==================================================
+============================================================
+[RUN END] exit code: 0
+============================================================
+2026-06-26 22:33:17,932 - INFO - [startup] Pulled 3000 log lines from GitHub.
+============================================================
+[RUN START] 2026-06-26 22:33:22 UTC
+============================================================
+2026-06-26 22:33:23,632 - INFO - [OK] Config OK - 3 active categories, 16 keywords total
+2026-06-26 22:33:24,031 - INFO - 
+============================================================
+2026-06-26 22:33:24,031 - INFO - [STARTUP] ENV VAR CHECK
+2026-06-26 22:33:24,031 - INFO - ============================================================
+2026-06-26 22:33:24,032 - INFO -   [OK]     SST_BOT_TOKEN = ***wE1Y
+2026-06-26 22:33:24,032 - INFO -   [OK]     SST_BACKEND_JOBS_CHAT_ID = ***1312
+2026-06-26 22:33:24,032 - INFO -   [OK]     SST_FRONTEND_JOBS_CHAT_ID = ***8207
+2026-06-26 22:33:24,032 - INFO -   [OK]     SST_DEVOPS_JOBS_CHAT_ID = ***1587
+2026-06-26 22:33:24,032 - INFO -   [OK]     GITHUB_TOKEN = ***IB17
+2026-06-26 22:33:24,032 - INFO -   [OK]     GITHUB_REPO = ***-bot
+2026-06-26 22:33:24,032 - INFO -   [OK]     SCRAPER_API_KEY = ***nK5Z
+2026-06-26 22:33:24,032 - INFO - ============================================================
+2026-06-26 22:33:24,441 - INFO - [OK] Successfully pulled sent_jobs.json from GitHub.
+2026-06-26 22:33:24,756 - INFO - [OK] Successfully pulled last_run.json from GitHub.
+2026-06-26 22:33:24,759 - INFO - 
+[Time] Last run: 2026-06-27 03:39:53.426696+05:30
+2026-06-26 22:33:24,759 - INFO - [State] Already sent: 5000 job IDs
+2026-06-26 22:33:24,759 - INFO - 
+--------------------------------------------------
+2026-06-26 22:33:24,759 - INFO - [Category] Category: BACKEND | Elapsed: 0.0 min
+2026-06-26 22:33:24,759 - INFO - --------------------------------------------------
+2026-06-26 22:33:24,759 - INFO - 
+[Search] [python developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:33:25,994 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
+2026-06-26 22:33:28,777 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
+2026-06-26 22:33:30,269 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
+2026-06-26 22:33:31,747 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
+2026-06-26 22:33:33,372 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=python%20d
+2026-06-26 22:33:33,583 - INFO - [DEBUG] Dropped job in 'knutsford, england, united kingdom' - not in target list
+2026-06-26 22:33:33,583 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
+2026-06-26 22:33:33,583 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
+2026-06-26 22:33:33,583 - INFO - [DEBUG] Dropped job in 'mumbai, maharashtra, india' - not in target list
+2026-06-26 22:33:33,583 - INFO - [DEBUG] Dropped job in 'nigeria' - not in target list
+2026-06-26 22:33:33,583 - INFO - [DEBUG] Dropped job in 'greater boston' - not in target list
+2026-06-26 22:33:33,583 - INFO - [DEBUG] Dropped job in 'pittsburgh, pa' - not in target list
+2026-06-26 22:33:33,584 - INFO - [DEBUG] Dropped job in 'istanbul, istanbul, türkiye' - not in target list
+2026-06-26 22:33:33,584 - INFO -  [OK] LinkedIn: 20 fetched → 12 new & recent (filtered: 8)
+2026-06-26 22:33:46,181 - INFO -  [OK] Naukri: 86 fetched → 13 new & recent (filtered: 73)
+2026-06-26 22:33:46,766 - INFO -     [Remotive] Cached 34 total jobs
+2026-06-26 22:33:46,821 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
+2026-06-26 22:33:48,221 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:33:49,252 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:33:53,926 - INFO -   [Sent] Sent 2 new jobs for 'python developer'
+2026-06-26 22:33:55,173 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
+2026-06-26 22:33:56,029 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
+2026-06-26 22:33:56,031 - INFO - 
+[Search] [java developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:33:57,266 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
+2026-06-26 22:33:58,720 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
+2026-06-26 22:34:00,133 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
+2026-06-26 22:34:01,791 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
+2026-06-26 22:34:03,392 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=java%20dev
+2026-06-26 22:34:03,603 - INFO - [DEBUG] Dropped job in 'new york, united states' - not in target list
+2026-06-26 22:34:03,604 - INFO - [DEBUG] Dropped job in 'mumbai, maharashtra, india' - not in target list
+2026-06-26 22:34:03,604 - INFO - [DEBUG] Dropped job in 'phoenix, az' - not in target list
+2026-06-26 22:34:03,604 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
+2026-06-26 22:34:03,605 - INFO - [DEBUG] Dropped job in 'wilmington, de' - not in target list
+2026-06-26 22:34:03,605 - INFO - [DEBUG] Dropped job in 'new york, united states' - not in target list
+2026-06-26 22:34:03,605 - INFO - [DEBUG] Dropped job in 'indiana, united states' - not in target list
+2026-06-26 22:34:03,605 - INFO - [DEBUG] Dropped job in 'east windsor, nj' - not in target list
+2026-06-26 22:34:03,605 - INFO - [DEBUG] Dropped job in 'arvada, co' - not in target list
+2026-06-26 22:34:03,605 - INFO - [DEBUG] Dropped job in 'austin, tx' - not in target list
+2026-06-26 22:34:03,605 - INFO -  [OK] LinkedIn: 32 fetched → 22 new & recent (filtered: 10)
+2026-06-26 22:34:15,889 - INFO -  [OK] Naukri: 77 fetched → 10 new & recent (filtered: 67)
+2026-06-26 22:34:16,390 - INFO -  [OK] Remotive: 6 fetched → 0 new & recent (filtered: 6)
+2026-06-26 22:34:17,820 - INFO -  [OK] WeWorkRemotely: 10 fetched → 0 new & recent (filtered: 10)
+2026-06-26 22:34:18,801 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:34:27,632 - INFO -   [Sent] Sent 4 new jobs for 'java developer'
+2026-06-26 22:34:29,365 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
+2026-06-26 22:34:30,261 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
+2026-06-26 22:34:30,263 - INFO - 
+[Search] [node.js developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:34:31,458 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
+2026-06-26 22:34:32,800 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
+2026-06-26 22:34:34,126 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
+2026-06-26 22:34:35,523 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
+2026-06-26 22:34:36,485 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=node.js%20
+2026-06-26 22:34:36,697 - INFO - [DEBUG] Dropped job in 'israel' - not in target list
+2026-06-26 22:34:36,697 - INFO - [DEBUG] Dropped job in 'vancouver, british columbia, canada' - not in target list
+2026-06-26 22:34:36,697 - INFO - [DEBUG] Dropped job in 'vancouver, british columbia, canada' - not in target list
+2026-06-26 22:34:36,698 - INFO - [DEBUG] Dropped job in 'israel' - not in target list
+2026-06-26 22:34:36,698 - INFO - [DEBUG] Dropped job in 'arvada, co' - not in target list
+2026-06-26 22:34:36,698 - INFO - [DEBUG] Dropped job in 'indiana, united states' - not in target list
+2026-06-26 22:34:36,698 - INFO - [DEBUG] Dropped job in 'são paulo, são paulo, brazil' - not in target list
+2026-06-26 22:34:36,698 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:34:36,698 - INFO - [DEBUG] Dropped job in 'kaunas, kaunas, lithuania' - not in target list
+2026-06-26 22:34:36,698 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:34:36,698 - INFO -  [OK] LinkedIn: 16 fetched → 6 new & recent (filtered: 10)
+2026-06-26 22:34:48,805 - INFO -  [OK] Naukri: 80 fetched → 8 new & recent (filtered: 72)
+2026-06-26 22:34:49,306 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
+2026-06-26 22:34:50,623 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:34:51,627 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:34:52,127 - INFO -   [Sent] Sent 0 new jobs for 'node.js developer'
+2026-06-26 22:34:52,127 - INFO - 
+[Search] [backend developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:34:53,592 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
+2026-06-26 22:34:54,969 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
+2026-06-26 22:34:56,501 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
+2026-06-26 22:34:58,017 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
+2026-06-26 22:34:59,473 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend%20
+2026-06-26 22:34:59,720 - INFO - [DEBUG] Dropped job in 'israel' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'arvada, co' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'indiana, united states' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'israel' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'vancouver, british columbia, canada' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'vancouver, british columbia, canada' - not in target list
+2026-06-26 22:34:59,721 - INFO - [DEBUG] Dropped job in 'nzalae/ nzawa locations, kitui county, kenya' - not in target list
+2026-06-26 22:34:59,722 - INFO -  [OK] LinkedIn: 19 fetched → 9 new & recent (filtered: 10)
+2026-06-26 22:35:12,644 - INFO -  [OK] Naukri: 90 fetched → 3 new & recent (filtered: 87)
+2026-06-26 22:35:13,145 - INFO -  [OK] Remotive: 14 fetched → 0 new & recent (filtered: 14)
+2026-06-26 22:35:14,323 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:35:15,301 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:35:15,801 - INFO -   [Sent] Sent 0 new jobs for 'backend developer'
+2026-06-26 22:35:15,801 - INFO - 
+[Search] [golang developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:35:17,107 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
+2026-06-26 22:35:18,808 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
+2026-06-26 22:35:20,217 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
+2026-06-26 22:35:21,729 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
+2026-06-26 22:35:23,341 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=golang%20d
+2026-06-26 22:35:23,552 - INFO - [DEBUG] Dropped job in 'california, united states' - not in target list
+2026-06-26 22:35:23,553 - INFO - [DEBUG] Dropped job in 'hursley, england, united kingdom' - not in target list
+2026-06-26 22:35:23,553 - INFO - [DEBUG] Dropped job in 'san francisco bay area' - not in target list
+2026-06-26 22:35:23,553 - INFO - [DEBUG] Dropped job in 'hursley, england, united kingdom' - not in target list
+2026-06-26 22:35:23,553 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:35:23,553 - INFO - [DEBUG] Dropped job in 'karnataka, india' - not in target list
+2026-06-26 22:35:23,553 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
+2026-06-26 22:35:23,553 - INFO - [DEBUG] Dropped job in 'karnataka, india' - not in target list
+2026-06-26 22:35:23,553 - INFO -  [OK] LinkedIn: 20 fetched → 12 new & recent (filtered: 8)
+2026-06-26 22:35:35,314 - INFO -  [OK] Naukri: 86 fetched → 4 new & recent (filtered: 82)
+2026-06-26 22:35:35,816 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
+2026-06-26 22:35:37,029 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:35:38,013 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:35:40,533 - INFO -   [Sent] Sent 1 new jobs for 'golang developer'
+2026-06-26 22:35:41,801 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
+2026-06-26 22:35:42,686 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
+2026-06-26 22:35:42,689 - INFO - 
+[Search] [rust developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:35:43,966 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
+2026-06-26 22:35:45,361 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
+2026-06-26 22:35:46,871 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
+2026-06-26 22:35:48,435 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
+2026-06-26 22:35:49,959 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=rust%20dev
+2026-06-26 22:35:50,621 - INFO - [DEBUG] Dropped job in 'new york, united states' - not in target list
+2026-06-26 22:35:50,621 - INFO - [DEBUG] Dropped job in 'ann arbor, mi' - not in target list
+2026-06-26 22:35:50,621 - INFO - [DEBUG] Dropped job in 'charlotte, nc' - not in target list
+2026-06-26 22:35:50,622 - INFO - [DEBUG] Dropped job in 'princeton, nj' - not in target list
+2026-06-26 22:35:50,622 - INFO - [DEBUG] Dropped job in 'burlington, ontario, canada' - not in target list
+2026-06-26 22:35:50,622 - INFO - [DEBUG] Dropped job in 'são paulo, brazil' - not in target list
+2026-06-26 22:35:50,622 - INFO - [DEBUG] Dropped job in 'scarborough, ontario, canada' - not in target list
+2026-06-26 22:35:50,622 - INFO - [DEBUG] Dropped job in 'edison, nj' - not in target list
+2026-06-26 22:35:50,623 - INFO - [DEBUG] Dropped job in 'rockville, md' - not in target list
+2026-06-26 22:35:50,623 - INFO - [DEBUG] Dropped job in 'pittsburgh, pa' - not in target list
+2026-06-26 22:35:50,623 - INFO -  [OK] LinkedIn: 17 fetched → 7 new & recent (filtered: 10)
+2026-06-26 22:36:00,719 - INFO -  [OK] Naukri: 27 fetched → 0 new & recent (filtered: 27)
+2026-06-26 22:36:01,219 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
+2026-06-26 22:36:02,421 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:36:03,400 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:36:03,900 - INFO -   [Sent] Sent 0 new jobs for 'rust developer'
+2026-06-26 22:36:04,900 - INFO - 
+--------------------------------------------------
+2026-06-26 22:36:04,901 - INFO - [Category] Category: FRONTEND | Elapsed: 2.7 min
+2026-06-26 22:36:04,901 - INFO - --------------------------------------------------
+2026-06-26 22:36:04,901 - INFO - 
+[Search] [react developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:36:06,160 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
+2026-06-26 22:36:07,841 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
+2026-06-26 22:36:09,179 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
+2026-06-26 22:36:10,485 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
+2026-06-26 22:36:11,906 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=react%20de
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'kaunas, kaunas, lithuania' - not in target list
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'addison, il' - not in target list
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'san francisco, ca' - not in target list
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'montreal, quebec, canada' - not in target list
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'front, piedmont, italy' - not in target list
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'las condes, santiago metropolitan region, chile' - not in target list
+2026-06-26 22:36:12,121 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:36:12,122 - INFO - [DEBUG] Dropped job in 'arvada, co' - not in target list
+2026-06-26 22:36:12,122 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:36:12,122 - INFO -  [OK] LinkedIn: 20 fetched → 10 new & recent (filtered: 10)
+2026-06-26 22:36:23,578 - INFO -  [OK] Naukri: 80 fetched → 4 new & recent (filtered: 76)
+2026-06-26 22:36:24,079 - INFO -  [OK] Remotive: 17 fetched → 0 new & recent (filtered: 17)
+2026-06-26 22:36:25,332 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:36:26,299 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:36:26,799 - INFO -   [Sent] Sent 0 new jobs for 'react developer'
+2026-06-26 22:36:26,799 - INFO - 
+[Search] [frontend developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:36:28,170 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
+2026-06-26 22:36:29,371 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
+2026-06-26 22:36:30,603 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
+2026-06-26 22:36:31,917 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
+2026-06-26 22:36:33,365 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=frontend%2
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'kaunas, kaunas, lithuania' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'san francisco, ca' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'athens, attiki, greece' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'addison, il' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'washington, dc' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'las condes, santiago metropolitan region, chile' - not in target list
+2026-06-26 22:36:33,576 - INFO - [DEBUG] Dropped job in 'montreal, quebec, canada' - not in target list
+2026-06-26 22:36:33,577 - INFO -  [OK] LinkedIn: 10 fetched → 0 new & recent (filtered: 10)
+2026-06-26 22:36:45,050 - INFO -  [OK] Naukri: 88 fetched → 2 new & recent (filtered: 86)
+2026-06-26 22:36:45,551 - INFO -  [OK] Remotive: 10 fetched → 0 new & recent (filtered: 10)
+2026-06-26 22:36:46,730 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:36:47,779 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:36:48,280 - INFO -   [Sent] Sent 0 new jobs for 'frontend developer'
+2026-06-26 22:36:48,280 - INFO - 
+[Search] [angular developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:36:49,485 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
+2026-06-26 22:36:50,956 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
+2026-06-26 22:36:52,411 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
+2026-06-26 22:36:53,583 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
+2026-06-26 22:36:54,120 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=angular%20
+2026-06-26 22:36:54,321 - INFO -  [OK] LinkedIn: 10 fetched → 10 new & recent (filtered: 0)
+2026-06-26 22:37:06,740 - INFO -  [OK] Naukri: 75 fetched → 3 new & recent (filtered: 72)
+2026-06-26 22:37:07,241 - INFO -  [OK] Remotive: 5 fetched → 0 new & recent (filtered: 5)
+2026-06-26 22:37:08,625 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:37:09,698 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:37:10,198 - INFO -   [Sent] Sent 0 new jobs for 'angular developer'
+2026-06-26 22:37:10,198 - INFO - 
+[Search] [vue.js developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:37:11,173 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
+2026-06-26 22:37:12,485 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
+2026-06-26 22:37:13,716 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
+2026-06-26 22:37:15,165 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
+2026-06-26 22:37:16,737 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=vue.js%20d
+2026-06-26 22:37:17,022 - INFO - [DEBUG] Dropped job in 'united kingdom' - not in target list
+2026-06-26 22:37:17,022 - INFO - [DEBUG] Dropped job in 'athens, attiki, greece' - not in target list
+2026-06-26 22:37:17,022 - INFO - [DEBUG] Dropped job in 'kabul, north district, israel' - not in target list
+2026-06-26 22:37:17,023 - INFO - [DEBUG] Dropped job in 'washington, dc' - not in target list
+2026-06-26 22:37:17,023 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:37:17,023 - INFO - [DEBUG] Dropped job in 'vienna, vienna, austria' - not in target list
+2026-06-26 22:37:17,023 - INFO - [DEBUG] Dropped job in 'dahlgren, va' - not in target list
+2026-06-26 22:37:17,023 - INFO - [DEBUG] Dropped job in 'israel' - not in target list
+2026-06-26 22:37:17,023 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
+2026-06-26 22:37:17,023 - INFO - [DEBUG] Dropped job in 'sector 3, bucharest, romania' - not in target list
+2026-06-26 22:37:17,023 - INFO -  [OK] LinkedIn: 19 fetched → 9 new & recent (filtered: 10)
+2026-06-26 22:37:27,601 - INFO -  [OK] Naukri: 82 fetched → 10 new & recent (filtered: 72)
+2026-06-26 22:37:28,101 - INFO -  [OK] Remotive: 3 fetched → 0 new & recent (filtered: 3)
+2026-06-26 22:37:29,329 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:37:30,380 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:37:30,881 - INFO -   [Sent] Sent 0 new jobs for 'vue.js developer'
+2026-06-26 22:37:30,881 - INFO - 
+[Search] [typescript developer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:37:31,965 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
+2026-06-26 22:37:33,166 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
+2026-06-26 22:37:34,411 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
+2026-06-26 22:37:35,709 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
+2026-06-26 22:37:37,190 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=typescript
+2026-06-26 22:37:37,400 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:37:37,400 - INFO - [DEBUG] Dropped job in 'pakistan' - not in target list
+2026-06-26 22:37:37,400 - INFO - [DEBUG] Dropped job in 'india' - not in target list
+2026-06-26 22:37:37,400 - INFO - [DEBUG] Dropped job in 'pakistan' - not in target list
+2026-06-26 22:37:37,400 - INFO - [DEBUG] Dropped job in 'india' - not in target list
+2026-06-26 22:37:37,401 - INFO - [DEBUG] Dropped job in 'indonesia' - not in target list
+2026-06-26 22:37:37,401 - INFO - [DEBUG] Dropped job in 'indonesia' - not in target list
+2026-06-26 22:37:37,401 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:37:37,401 - INFO - [DEBUG] Dropped job in 'philippines' - not in target list
+2026-06-26 22:37:37,401 - INFO - [DEBUG] Dropped job in 'philippines' - not in target list
+2026-06-26 22:37:37,401 - INFO -  [OK] LinkedIn: 10 fetched → 0 new & recent (filtered: 10)
+2026-06-26 22:37:48,117 - INFO -  [OK] Naukri: 86 fetched → 28 new & recent (filtered: 58)
+2026-06-26 22:37:48,618 - INFO -  [OK] Remotive: 10 fetched → 0 new & recent (filtered: 10)
+2026-06-26 22:37:50,032 - INFO -  [OK] WeWorkRemotely: 9 fetched → 0 new & recent (filtered: 9)
+2026-06-26 22:37:51,108 - INFO -  [OK] RemoteOK: 1 fetched → 0 new & recent (filtered: 1)
+2026-06-26 22:37:51,609 - INFO -   [Sent] Sent 0 new jobs for 'typescript developer'
+2026-06-26 22:37:52,609 - INFO - 
+--------------------------------------------------
+2026-06-26 22:37:52,610 - INFO - [Category] Category: DEVOPS | Elapsed: 4.5 min
+2026-06-26 22:37:52,610 - INFO - --------------------------------------------------
+2026-06-26 22:37:52,610 - INFO - 
+[Search] [devops engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:37:53,826 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
+2026-06-26 22:37:55,486 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
+2026-06-26 22:37:56,771 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
+2026-06-26 22:37:58,162 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
+2026-06-26 22:37:59,670 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=devops%20e
+2026-06-26 22:37:59,881 - INFO - [DEBUG] Dropped job in 'englewood cliffs, nj' - not in target list
+2026-06-26 22:37:59,881 - INFO - [DEBUG] Dropped job in 'dallas-fort worth metroplex' - not in target list
+2026-06-26 22:37:59,881 - INFO - [DEBUG] Dropped job in 'englewood cliffs, nj' - not in target list
+2026-06-26 22:37:59,881 - INFO - [DEBUG] Dropped job in 'rome, ny' - not in target list
+2026-06-26 22:37:59,882 - INFO - [DEBUG] Dropped job in 'colorado springs, co' - not in target list
+2026-06-26 22:37:59,882 - INFO - [DEBUG] Dropped job in 'charlotte, nc' - not in target list
+2026-06-26 22:37:59,882 - INFO - [DEBUG] Dropped job in 'boston, ma' - not in target list
+2026-06-26 22:37:59,882 - INFO - [DEBUG] Dropped job in 'karlsruhe, baden-württemberg, germany' - not in target list
+2026-06-26 22:37:59,882 - INFO - [DEBUG] Dropped job in 'orlando, fl' - not in target list
+2026-06-26 22:37:59,882 - INFO -  [OK] LinkedIn: 20 fetched → 11 new & recent (filtered: 9)
+2026-06-26 22:38:11,425 - INFO -  [OK] Naukri: 92 fetched → 9 new & recent (filtered: 83)
+2026-06-26 22:38:11,926 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
+2026-06-26 22:38:13,231 - INFO -  [OK] WeWorkRemotely: 12 fetched → 0 new & recent (filtered: 12)
+2026-06-26 22:38:14,217 - INFO -  [OK] RemoteOK: 4 fetched → 0 new & recent (filtered: 4)
+2026-06-26 22:38:16,745 - INFO -   [Sent] Sent 1 new jobs for 'devops engineer'
+2026-06-26 22:38:18,419 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
+2026-06-26 22:38:19,636 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
+2026-06-26 22:38:19,638 - INFO - 
+[Search] [cloud engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:38:20,896 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
+2026-06-26 22:38:22,375 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
+2026-06-26 22:38:24,369 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
+2026-06-26 22:38:25,745 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
+2026-06-26 22:38:27,175 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=cloud%20en
+2026-06-26 22:38:27,388 - INFO - [DEBUG] Dropped job in 'washington, dc' - not in target list
+2026-06-26 22:38:27,388 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'charlotte, nc' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'washington, dc' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'california, united states' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'san diego, ca' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'boston, ma' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
+2026-06-26 22:38:27,389 - INFO - [DEBUG] Dropped job in 'boston, ma' - not in target list
+2026-06-26 22:38:27,389 - INFO -  [OK] LinkedIn: 32 fetched → 22 new & recent (filtered: 10)
+2026-06-26 22:38:39,291 - INFO -  [OK] Naukri: 79 fetched → 4 new & recent (filtered: 75)
+2026-06-26 22:38:39,792 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
+2026-06-26 22:38:40,934 - INFO -  [OK] WeWorkRemotely: 11 fetched → 0 new & recent (filtered: 11)
+2026-06-26 22:38:41,882 - INFO -  [OK] RemoteOK: 4 fetched → 0 new & recent (filtered: 4)
+2026-06-26 22:38:44,433 - INFO -   [Sent] Sent 1 new jobs for 'cloud engineer'
+2026-06-26 22:38:46,074 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
+2026-06-26 22:38:46,963 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
+2026-06-26 22:38:46,965 - INFO - 
+[Search] [site reliability engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:38:48,359 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
+2026-06-26 22:38:49,851 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
+2026-06-26 22:38:51,307 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
+2026-06-26 22:38:52,671 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
+2026-06-26 22:38:53,576 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=site%20rel
+2026-06-26 22:38:53,787 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'washington, dc' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'california, united states' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'dallas-fort worth metroplex' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'san jose, ca' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'charlotte, nc' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'united states' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
+2026-06-26 22:38:53,788 - INFO - [DEBUG] Dropped job in 'washington, dc' - not in target list
+2026-06-26 22:38:53,789 - INFO - [DEBUG] Dropped job in 'washington, dc' - not in target list
+2026-06-26 22:38:53,789 - INFO -  [OK] LinkedIn: 33 fetched → 23 new & recent (filtered: 10)
+2026-06-26 22:39:05,937 - INFO -  [OK] Naukri: 90 fetched → 3 new & recent (filtered: 87)
+2026-06-26 22:39:06,438 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
+2026-06-26 22:39:07,824 - INFO -  [OK] WeWorkRemotely: 12 fetched → 0 new & recent (filtered: 12)
+2026-06-26 22:39:08,790 - INFO -  [OK] RemoteOK: 4 fetched → 0 new & recent (filtered: 4)
+2026-06-26 22:39:09,291 - INFO -   [Sent] Sent 0 new jobs for 'site reliability engineer'
+2026-06-26 22:39:09,291 - INFO - 
+[Search] [platform engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:39:10,724 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
+2026-06-26 22:39:12,314 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
+2026-06-26 22:39:13,705 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
+2026-06-26 22:39:15,208 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
+2026-06-26 22:39:16,938 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=platform%2
+2026-06-26 22:39:17,151 - INFO - [DEBUG] Dropped job in 'austin, tx' - not in target list
+2026-06-26 22:39:17,151 - INFO - [DEBUG] Dropped job in 'warren, mi' - not in target list
+2026-06-26 22:39:17,151 - INFO - [DEBUG] Dropped job in 'dublin, county dublin, ireland' - not in target list
+2026-06-26 22:39:17,152 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
+2026-06-26 22:39:17,152 - INFO - [DEBUG] Dropped job in 'toronto, ontario, canada' - not in target list
+2026-06-26 22:39:17,152 - INFO - [DEBUG] Dropped job in 'hursley, england, united kingdom' - not in target list
+2026-06-26 22:39:17,152 - INFO - [DEBUG] Dropped job in 'hursley, england, united kingdom' - not in target list
+2026-06-26 22:39:17,152 - INFO - [DEBUG] Dropped job in 'miami, fl' - not in target list
+2026-06-26 22:39:17,152 - INFO - [DEBUG] Dropped job in 'chicago, il' - not in target list
+2026-06-26 22:39:17,152 - INFO - [DEBUG] Dropped job in 'new york, ny' - not in target list
+2026-06-26 22:39:17,152 - INFO -  [OK] LinkedIn: 24 fetched → 14 new & recent (filtered: 10)
+2026-06-26 22:39:29,372 - INFO -  [OK] Naukri: 78 fetched → 3 new & recent (filtered: 75)
+2026-06-26 22:39:29,873 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
+2026-06-26 22:39:31,025 - INFO -  [OK] WeWorkRemotely: 11 fetched → 0 new & recent (filtered: 11)
+2026-06-26 22:39:32,061 - INFO -  [OK] RemoteOK: 4 fetched → 0 new & recent (filtered: 4)
+2026-06-26 22:39:32,562 - INFO -   [Sent] Sent 0 new jobs for 'platform engineer'
+2026-06-26 22:39:32,562 - INFO - 
+[Search] [kubernetes engineer] - ['Hyderabad', 'Bangalore', 'Chennai', 'Pune', 'Remote']
+2026-06-26 22:39:33,913 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
+2026-06-26 22:39:35,732 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
+2026-06-26 22:39:37,403 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
+2026-06-26 22:39:38,457 - INFO -     [200] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
+2026-06-26 22:39:39,636 - INFO -     [429] https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=kubernetes
+2026-06-26 22:39:39,838 - INFO -  [OK] LinkedIn: 12 fetched → 12 new & recent (filtered: 0)
+2026-06-26 22:39:51,057 - INFO -  [OK] Naukri: 69 fetched → 4 new & recent (filtered: 65)
+2026-06-26 22:39:51,558 - INFO -  [OK] Remotive: 15 fetched → 0 new & recent (filtered: 15)
+2026-06-26 22:39:52,821 - INFO -  [OK] WeWorkRemotely: 11 fetched → 0 new & recent (filtered: 11)
+2026-06-26 22:39:53,862 - INFO -  [OK] RemoteOK: 4 fetched → 0 new & recent (filtered: 4)
+2026-06-26 22:40:09,117 - INFO -   [Sent] Sent 7 new jobs for 'kubernetes engineer'
+2026-06-26 22:40:10,593 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
+2026-06-26 22:40:11,513 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
+2026-06-26 22:40:13,818 - INFO -   [OK] Pushed 'sent_jobs.json' to GitHub.
+2026-06-26 22:40:14,688 - INFO -   [OK] Pushed 'last_run.json' to GitHub.
+2026-06-26 22:40:14,690 - INFO - 
+==================================================
+2026-06-26 22:40:14,691 - INFO - [OK] Run complete. Total new jobs sent: 16
+2026-06-26 22:40:14,691 - INFO - ==================================================
 ============================================================
 [RUN END] exit code: 0
 ============================================================
